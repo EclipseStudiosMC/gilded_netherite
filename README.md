@@ -1,4 +1,4 @@
-# Gilded Netherite (BFT)
+# Gilded Netherite (GN)
 
 Gilded Netherite is a 1.20+ minecraft datapack that uses the newly added trims to make Gilded Netherite Armor, which is something that the community has asked since the release of 1.16.
 
