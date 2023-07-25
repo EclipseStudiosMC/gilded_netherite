@@ -17,7 +17,7 @@ Gilded Netherite is a 1.20+ minecraft datapack that uses the newly added trims t
 
 ## Author
 
-- [@ElGeroIngles](https://modrinth.com/user/ElGeroIngles)
+- [@ElGeroIngles](https://github.com/ElGeroIngles)
 
 
 ## FAQ
@@ -36,7 +36,7 @@ A: Yes it does.
 
 #### Q: Can I modify the datapack and redistribute it?
 
-A: Yes you can, but only say who the original creator is ([me](https://github.com/ElGeroIngles)) and if you link the original [Modrinth page](https://modrinth.com/datapack/gn) somewhere noticeable in the project.
+A: Yes you can, but only say who the original creator is ([me](https://github.com/ElGeroIngles)) and if you link the original [Modrinth page](https://modrinth.com/datapack/gna) somewhere noticeable in the project.
 
 #### Q: Are you going to make more datapacks?
 
@@ -44,7 +44,7 @@ A: Yes, I already have the idea for my next project and I think you will love it
 
 #### Q: Why does my Gilded Armor have the texture of gold armor?
 
-A: Remember to also download the resourcepack to make it appear that it is not broken, go to "[Versions](https://modrinth.com/datapack/gn/versions)" > Click on the version you are using > Download the resourcepack.
+A: Remember to also download the resourcepack to make it appear that it is not broken, go to "[Versions](https://modrinth.com/datapack/gna/versions)" > Click on the version you are using > Download the resourcepack.
 
 #### Q: Does this datapack work on older versions?
 
