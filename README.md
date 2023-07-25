@@ -15,6 +15,11 @@ Gilded Netherite is a 1.20+ minecraft datapack that uses the newly added trims t
 - **/trigger Store<ArmorPiece>** ---> Stores the NBT of the armor piece you are holding, it must be a netherite armor piece as the same armor type as <ArmorPiece>
 - **/trigger Set<ArmorPiece>** ---> Sets the NBT that you've previously stored using "**/trigger Store<ArmorPiece>**" to the armor piece that you are holding, it must be a gilded netherite armor piece as the same armor type as <ArmorPiece>
 
+<h3>In more detail:</h3>
+<details>
+What the Gilded Armor does is makes piglins and those types of mobs friendly, just like golden armor does.
+</details>
+
 ## Author
 
 - [@ElGeroIngles](https://github.com/ElGeroIngles)
