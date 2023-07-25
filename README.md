@@ -5,6 +5,7 @@ Gilded Netherite is a 1.20+ minecraft datapack that uses the newly added trims t
 ## Features
 
 - Gilded Netherite Armor
+- New Advancements
 - Multiplayer compatibility
 
 ## In-game commands:
