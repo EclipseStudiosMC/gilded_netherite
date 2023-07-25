@@ -1,0 +1,4 @@
+recipe take @s gn:gilded_boots
+advancement revoke @s only gn:armor/boots
+give @s golden_boots{display:{Name:'{"text":"Gilded Netherite Boots","color":"white","italic":false}'},Unbreakable:1b,CustomModelData:1,gilded:1,hits:0b,AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:3,Operation:0,UUID:[I;-1568524176,464208246,-1436725376,-1749699356],Slot:"head"},{AttributeName:"generic.armor_toughness",Name:"generic.armor_toughness",Amount:3,Operation:0,UUID:[I;1479701662,1280917887,-1083507091,-1768217795],Slot:"head"},{AttributeName:"generic.knockback_resistance",Name:"generic.knockback_resistance",Amount:0.1,Operation:0,UUID:[I;-313207855,1418348449,-1839208881,1114466185],Slot:"head"}],Trim:{material:"minecraft:netherite",pattern:"minecraft:silence"}} 1
+clear @s knowledge_book

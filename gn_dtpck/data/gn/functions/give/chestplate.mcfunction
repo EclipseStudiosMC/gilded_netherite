@@ -1,0 +1,4 @@
+recipe take @s gn:gilded_chestplate
+advancement revoke @s only gn:armor/chestplate
+give @s golden_chestplate{display:{Name:'{"text":"Gilded Netherite Chestplate","color":"white","italic":false}'},Unbreakable:1b,CustomModelData:1,gilded:1,hits:0b,AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:8,Operation:0,UUID:[I;-82509555,-974765083,-1192934982,1804840685],Slot:"head"},{AttributeName:"generic.armor_toughness",Name:"generic.armor_toughness",Amount:3,Operation:0,UUID:[I;-1947652580,-416657834,-2048488267,-100335392],Slot:"head"},{AttributeName:"generic.knockback_resistance",Name:"generic.knockback_resistance",Amount:0.1,Operation:0,UUID:[I;1193505909,574049599,-1685700792,684883621],Slot:"head"}],Trim:{material:"minecraft:netherite",pattern:"minecraft:silence"}}
+clear @s knowledge_book

@@ -1,0 +1,8 @@
+# Message:
+tellraw @s ["",{"text":"---------------------------------------------------","color":"light_purple"},"\n","\n",{"text":"                          ✱ CREDS ✱","bold":true,"color":"dark_purple"},"\n","\n",{"text":"  • ","color":"black"},{"text":"Author: ","color":"yellow"},{"text":"ElGeroIngles","color":"gold"},"\n","\n",{"text":"  • ","color":"black"},{"text":"Links:","color":"yellow"},"\n","   ",{"text":"[Modrinth]","underlined":true,"color":"green","clickEvent":{"action":"open_url","value":"https://modrinth.com/user/ElGeroIngles"}}," ",{"text":"[YouTube]","underlined":true,"color":"red","clickEvent":{"action":"open_url","value":"https://www.youtube.com/@elgeroingles"}}," ",{"text":"[Twitch]","underlined":true,"color":"dark_purple","clickEvent":{"action":"open_url","value":"https://www.twitch.tv/elgeroingles"}}," ",{"text":"[GitHub]","underlined":true,"color":"black","clickEvent":{"action":"open_url","value":"https://github.com/ElGeroIngles"}}," ",{"text":"[Discord]","underlined":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://discord.gg/bGd2QyqjCg"}},"\n","\n",{"text":"  • ","color":"black"},{"text":"Bugs/Suggestion:","color":"yellow"},"\n",{"text":"   If you have found any bugs or want to make a suggestion for this datapack or for a future one, please reach out to me at my ","color":"green"},{"text":"discord server","underlined":true,"color":"blue","clickEvent":{"action":"open_url","value":"https://discord.gg/bGd2QyqjCg"}},{"text":".","color":"green"},"\n","\n",{"text":"---------------------------------------------------","color":"light_purple"}]
+
+# Sound:
+playsound minecraft:entity.player.levelup ambient @s ~ ~ ~ 1 0
+
+# Reset:
+scoreboard players set @s Creds 0
