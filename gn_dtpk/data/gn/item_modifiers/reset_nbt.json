@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{display:{Name:'',Lore:['']},Enchantments:[]}"
+    }
+  ]
+  

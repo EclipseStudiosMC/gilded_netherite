@@ -1,0 +1,4 @@
+recipe take @s gn:gilded_helmet
+advancement revoke @s only gn:armor/helmet
+give @s golden_helmet{display:{Name:'{"text":"Gilded Netherite Helmet","color":"white","italic":false}'},Unbreakable:1b,CustomModelData:1,gilded:1,hits:0b,AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:3,Operation:0,UUID:[I;1368209954,1736723549,-1817321116,-2119888122],Slot:"head"},{AttributeName:"generic.armor_toughness",Name:"generic.armor_toughness",Amount:3,Operation:0,UUID:[I;-1229290091,-82292896,-1635270785,-1915875360],Slot:"head"},{AttributeName:"generic.knockback_resistance",Name:"generic.knockback_resistance",Amount:0.1,Operation:0,UUID:[I;382213284,-1600961500,-1960912872,1436095204],Slot:"head"}],Trim:{material:"minecraft:netherite",pattern:"minecraft:silence"}} 1
+clear @s knowledge_book

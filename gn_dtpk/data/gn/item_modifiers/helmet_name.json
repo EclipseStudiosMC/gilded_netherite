@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{display:{Name:'{\"text\":\"Gilded Netherite Helmet\",\"italic\":false}'}}"
+  }
+]

@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{Unbreakable:1b,CustomModelData:1,gilded:1,hits:0b,AttributeModifiers:[{AttributeName:\"generic.armor\",Name:\"generic.armor\",Amount:3,Operation:0,UUID:[I;1770519231,1128810172,-1187547086,-136789047],Slot:\"head\"},{AttributeName:\"generic.armor_toughness\",Name:\"generic.armor_toughness\",Amount:3,Operation:0,UUID:[I;-1655496312,-1463795120,-1081241143,-1375997004],Slot:\"head\"},{AttributeName:\"generic.knockback_resistance\",Name:\"generic.knockback_resistance\",Amount:0.1,Operation:0,UUID:[I;1646258874,-430028269,-1480702552,-1667079410],Slot:\"head\"}],Trim:{material:\"minecraft:netherite\",pattern:\"minecraft:silence\"}}"
+    }
+  ]
+  
