@@ -13,6 +13,9 @@ Gilded Netherite is a 1.20+ minecraft datapack that uses the newly added trims t
 What the Gilded Armor does is makes piglins and those types of mobs friendly, just like golden armor does.
 </details>
 
+## How to Craft
+
+In a smithing table use one gold with a netherite armor piece to craft the Gilded Netherite Armor.
 ## In-game commands:
 
 - **/trigger Info** ---> Shows some very useful information
