@@ -34,7 +34,7 @@ In a smithing table use one gold with a netherite armor piece to craft the Gilde
 
 A: With datapacks, the only thing you can do to replicate the effect that gold armor has over piglins and those type of mobs is by liteally using it, so this datapack makes the illusion that you are wearing a combination of Netherite Armor and Gold Armor but in reality you are using gold armor. The problem is that you CAN'T edit the max durability something has, so after some thinking I decided to just make it unbreakable. I know this solution is bad because it somewhat ruins the experience but I can't do anything to fix it.
 
-#### Q: Why aren't the enchants/name/lore not keeping when I craft it?
+#### Q: Why are the enchants/name/lore not keeping when I craft it?
 
 A: Using datapacks you can't NBT craft, which is what is used to keep those kind of things when crafting, without using a custom menu (which is what I did with my [BFT](https://modrinth.com/datapack/bft) datapack) so to overpass that use "**/trigger Store<ArmorPiece>**" to store the NBT of the armor piece you hold and then "**/trigger Set<ArmorPiece>**" to set the NBT to the armor piece you are holding. For more information use "**/trigger Info**" command in-game.
 
